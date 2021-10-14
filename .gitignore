@@ -1,0 +1,4 @@
+db/
+geotest_prod
+dump.rdb
+.env
